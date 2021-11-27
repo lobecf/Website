@@ -1,7 +1,5 @@
 import Nav from './Nav.js'
-import Header from './Header.js'
 import styled from 'styled-components'
-import { BrowserRouter as Router, Switch, Route} from "react-router-dom"
 
 function App() {
   return (
